@@ -1,1 +1,6 @@
 
+streamlit
+google-genai
+edge-tts
+openai-whisper
+moviepy
